@@ -1,0 +1,14 @@
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\Wazir\MediathequeWazir\Mediatheque\bin\Debug\Mediatheque.exe.config
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\Wazir\MediathequeWazir\Mediatheque\bin\Debug\Mediatheque.exe
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\Wazir\MediathequeWazir\Mediatheque\bin\Debug\Mediatheque.pdb
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\Wazir\MediathequeWazir\Mediatheque\obj\Debug\Mediatheque.csprojResolveAssemblyReference.cache
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\Wazir\MediathequeWazir\Mediatheque\obj\Debug\Mediatheque.csproj.CoreCompileInputs.cache
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\Wazir\MediathequeWazir\Mediatheque\obj\Debug\Mediatheque.exe
+D:\OneDrive - SQLI\INGETIS 2017 2018\4ESI - Cours\JAVA J2EE - Guerfi\TPs\Wazir\MediathequeWazir\Mediatheque\obj\Debug\Mediatheque.pdb
+C:\Users\Wazir\Downloads\MediathequeWazir\MediathequeWazir\Mediatheque\bin\Debug\Mediatheque.exe.config
+C:\Users\Wazir\Downloads\MediathequeWazir\MediathequeWazir\Mediatheque\bin\Debug\Mediatheque.exe
+C:\Users\Wazir\Downloads\MediathequeWazir\MediathequeWazir\Mediatheque\bin\Debug\Mediatheque.pdb
+C:\Users\Wazir\Downloads\MediathequeWazir\MediathequeWazir\Mediatheque\obj\Debug\Mediatheque.csprojResolveAssemblyReference.cache
+C:\Users\Wazir\Downloads\MediathequeWazir\MediathequeWazir\Mediatheque\obj\Debug\Mediatheque.csproj.CoreCompileInputs.cache
+C:\Users\Wazir\Downloads\MediathequeWazir\MediathequeWazir\Mediatheque\obj\Debug\Mediatheque.exe
+C:\Users\Wazir\Downloads\MediathequeWazir\MediathequeWazir\Mediatheque\obj\Debug\Mediatheque.pdb
